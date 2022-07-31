@@ -1,2 +1,2 @@
 # mysql for machine learning
-Practice mysql from ineuron fsda class.
+Practice mysql from Full Stack Data Analyst classes.
