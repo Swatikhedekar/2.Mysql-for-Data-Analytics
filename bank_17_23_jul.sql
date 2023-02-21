@@ -203,6 +203,7 @@ select * from bank_details where loan='yes';
 
 #6. try to find out average balance for all the people whose job role is admin 
 select * from bank_details where job='admin.';
+select avg(balance) from bank_details where job='admin.';
 
 # 7. try to find out a record  without job whose age is below 45 
 select * from bank_details where job='unknown' and age <=45;
